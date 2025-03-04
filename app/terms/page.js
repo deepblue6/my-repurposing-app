@@ -77,9 +77,9 @@ export default function Terms() {
                 5. Limitation of Liability
               </h2>
               <p className="text-gray-600 mb-4">
-                ContentRepurpose.ai is provided "as is" without warranties. We
-                are not liable for any damages arising from the use of our
-                service.
+                ContentRepurpose.ai is provided &quot;as is&quot; without
+                warranties. We are not liable for any damages arising from the
+                use of our service.
               </p>
             </section>
 
