@@ -14,8 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "YouTube Video Summarizer",
-  description: "Get instant AI-powered summaries of any YouTube video",
+  title: "ContentRepurpose.ai - Transform Your Content Across Platforms",
+  description:
+    "Transform your content between YouTube, Instagram, TikTok, and other platforms with AI",
 };
 
 export default function RootLayout({ children }) {
